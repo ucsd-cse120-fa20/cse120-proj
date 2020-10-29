@@ -15,7 +15,7 @@ public class Future {
      * particular, the constructor should not block as a consequence
      * of invoking <i>function</i>.
      */
-    Future (IntSupplier function) {
+    public Future (IntSupplier function) {
     }
 
     /**
